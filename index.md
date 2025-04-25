@@ -14,9 +14,28 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
 # Research - Working Papers
 
 <details>
-  <summary><strong>Paper Title: "The Economics of Cool Stuff"</strong></summary>
+  <summary><b>Voluntary Public Good Provision with Heterogeneous Private Benefits </b></summary>
   <p>
-    This paper explores the intersection of behavioral nudges and coolness perception in product adoption. We use panel data from sneaker releases and a novel measure of "hype" elasticity...
+    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <br>
+    Voluntary public goods provision involves individuals making decisions that consider the
+    balance between heterogenous private benefits and collective societal benefits. This
+    occurs in many environmental and public health contexts such as vaccination campaigns,
+    adoption of renewable energy technologies, conservation programs, waste reduction and
+    recycling initiatives, air quality improvement e?orts, and noise pollution reduction. The
+    level of participation determines whether a critical threshold is met for achieving impactful
+    societal benefits. However, individual incentives to participate are heterogenous, leading to
+    potential free-riding opportunities for individuals when a population is trying to reach a
+    critical threshold.
+    The decision to contribute to such public goods depends not only on private costs and
+    benefits but also on the structure of decision-making. Individuals may act simultaneously
+    without knowing others' choices or sequentially. When individuals make decisions
+    sequentially, they can observe early adopters, and this may encourage greater cooperation.
+    Little is known about how heterogeneity in individual incentives interact with decision
+    sequences to influence participation in voluntary public goods provision. This study
+    examines these factors through a controlled lab experimental framework to better
+    understand the mechanisms that drive cooperative behavior in threshold public goods
+    settings.
   </p>
 </details>
 
