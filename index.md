@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
+<img src="/assets/river.jpeg" alt="AxamerLizum" />
 
 I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2027. My research focuses on [insert your research areas, e.g., environmental economics, recreational fisheries, etc.]. Specifically, I am interested in using [methodology, e.g., natural experiments, econometrics] to understand the effects of [specific research topics, e.g., climate change, noise pollution, etc.].
 
