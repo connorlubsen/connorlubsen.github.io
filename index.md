@@ -7,7 +7,7 @@ I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwy
 
 I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
-You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by phone at 828-773-4558.
+You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 
 * * *
 
