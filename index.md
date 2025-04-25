@@ -49,4 +49,3 @@ _Jan 2022 – Aug 2022_
 
 * * *
 
-<img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" />
