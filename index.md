@@ -5,7 +5,7 @@ layout: default
 
 I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2027. My research focuses on [insert your research areas, e.g., environmental economics, recreational fisheries, etc.]. Specifically, I am interested in using [methodology, e.g., natural experiments, econometrics] to understand the effects of [specific research topics, e.g., climate change, noise pollution, etc.].
 
-I received my Bachelor's degree in Business Administration (Economics and Risk Management & Insurance) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
+I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
 You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by phone at 828-773-4558.
 
