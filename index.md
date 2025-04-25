@@ -44,9 +44,8 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 <details>
   <summary><b> Effective Science Communication </b></summary>
   <p>
-    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
-    <br>
     <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <br>
   </p>
 </details>
 <br>
