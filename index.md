@@ -42,23 +42,6 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 </details>
 <br>
 <details>
-  <summary><b> Effective Science Communication </b></summary>
-  <p>
-    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
-    <br>
-    It is not well understood how individuals perceive the scenarios that are presented by integrated
-    modeling. Since models are inherently built on assumptions, the scenarios predicted by the modeling
-    is inherently conditional and therefore uncertain. This uncertainty is difficult for the general public to
-    interpret and understand. How the uncertain scenarios are presented likely matters in the public's
-    understanding and trust in the science. There is a need to improve science communication to the public
-    because the public's understanding of the science matters to policy debates and decisions. This study will
-    investigate individual behavioral tendencies surrounding alternative presentations of scenarios derived
-    from scientific modeling. Better understanding how people interpret the scenarios will offer insights on how
-    the scenarios can be more effectively communicated.
-  </p>
-</details>
-<br>
-<details>
   <summary><b> Anthropogenic Noise: Visitor Behavior and Welfare Implications  </b></summary>
   <p>
     <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, <a>Caleb J. Hill</a>, and <a>Katie Tenny</a>.
@@ -74,7 +57,23 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 
   </p>
 </details>
-
+<br>
+<details>
+  <summary><b> Effective Science Communication </b></summary>
+  <p>
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <br>
+    It is not well understood how individuals perceive the scenarios that are presented by integrated
+    modeling. Since models are inherently built on assumptions, the scenarios predicted by the modeling
+    is inherently conditional and therefore uncertain. This uncertainty is difficult for the general public to
+    interpret and understand. How the uncertain scenarios are presented likely matters in the public's
+    understanding and trust in the science. There is a need to improve science communication to the public
+    because the public's understanding of the science matters to policy debates and decisions. This study will
+    investigate individual behavioral tendencies surrounding alternative presentations of scenarios derived
+    from scientific modeling. Better understanding how people interpret the scenarios will offer insights on how
+    the scenarios can be more effectively communicated.
+  </p>
+</details>
 <br>
 * * *
 
