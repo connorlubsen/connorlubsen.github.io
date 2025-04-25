@@ -6,7 +6,7 @@
 .cv-button {
   display: inline-block;
   padding: 0.5em 1em;
-  background-color: #6c757d;
+  background-color: #6c757d; /* Original gray */
   color: white;
   text-decoration: none;
   border-radius: 6px;
@@ -15,7 +15,7 @@
 }
 
 .cv-button:hover {
-  background-color: #5a6268; /* Slightly darker gray */
+  background-color: #343a40; /* Much darker gray */
   color: white; /* Keep text white */
 }
 
