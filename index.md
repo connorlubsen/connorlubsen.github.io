@@ -16,7 +16,7 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
 <details>
   <summary><b>Voluntary Public Good Provision with Heterogeneous Private Benefits </b></summary>
   <p>
-    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
     <br>
     <br>
     Voluntary public goods provision involves individuals making decisions that consider the
@@ -46,14 +46,14 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
   <p>
     With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
     <br>
-    <i>Work in progress.</i>
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
   </p>
 </details>
 <br>
 <details>
-  <summary><b> Noise Pollution and Recreation Demand </b></summary>
+  <summary><b> Anthropogenic Noise: Visitor Behavior and Welfare Implications  </b></summary>
   <p>
-    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, <a>Caleb J. Hill</a>, and <a>Katie Tenny</a>.
     <br>
     <br>
     Anthropogenic noise is an increasing issue in outdoor recreation, particularly at national parks. 
