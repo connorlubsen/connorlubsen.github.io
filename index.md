@@ -23,7 +23,7 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
     balance between heterogenous private benefits and collective societal benefits. This
     occurs in many environmental and public health contexts such as vaccination campaigns,
     adoption of renewable energy technologies, conservation programs, waste reduction and
-    recycling initiatives, air quality improvement e?orts, and noise pollution reduction. The
+    recycling initiatives, air quality improvement efforts, and noise pollution reduction. The
     level of participation determines whether a critical threshold is met for achieving impactful
     societal benefits. However, individual incentives to participate are heterogenous, leading to
     potential free-riding opportunities for individuals when a population is trying to reach a
