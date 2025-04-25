@@ -16,7 +16,7 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 <details>
   <summary><b>Voluntary Public Good Provision with Heterogeneous Private Benefits </b></summary>
   <p>
-    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a> and <a href="https://www.uwyo.edu/economics/faculty-staff/david-finnoff/index.html" target="_blank">David Finnoff</a>
     <br>
     <br>
     Voluntary public goods provision involves individuals making decisions that consider the
