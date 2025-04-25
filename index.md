@@ -9,19 +9,6 @@ I received my Bachelor's degree in Business Administration (Economics and Risk M
 
 You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by phone at 828-773-4558.
 
-[My LinkedIn is here.](https://www.linkedin.com/in/connorlubsen)
-
-* * *
-
-# Education
-
-**University of Wyoming**, Laramie, WY  
-_Ph.D. in Economics, anticipated graduation May 2027_  
-
-**Appalachian State University**, Boone, NC  
-_Bachelor of Science in Business Administration, Economics (BSBA), Risk Management & Insurance (BSBA), Graduated December 2021_  
-Magna Cum Laude  
-
 * * *
 
 # Research - Working Papers
