@@ -47,11 +47,9 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
   <p>
     With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
     <br>
-    <br>
     <i>Work in progress.</i>
   </p>
 </details>
-<br>
 <br>
 <details>
   <summary><b> Noise Pollution and Recreation Demand </b></summary>
