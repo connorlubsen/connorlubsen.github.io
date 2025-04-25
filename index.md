@@ -41,7 +41,6 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
   </p>
 </details>
 <br>
-<br>
 <details>
   <summary><b> Effective Science Communication </b></summary>
   <p>
