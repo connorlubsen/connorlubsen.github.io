@@ -2,3 +2,19 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.cv-button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: #0366d6;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.cv-button:hover {
+  background-color: #024ea2;
+}
+
