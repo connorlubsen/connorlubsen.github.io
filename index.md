@@ -18,6 +18,7 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
   <p>
     With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
     <br>
+    <br>
     Voluntary public goods provision involves individuals making decisions that consider the
     balance between heterogenous private benefits and collective societal benefits. This
     occurs in many environmental and public health contexts such as vaccination campaigns,
@@ -27,6 +28,7 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
     societal benefits. However, individual incentives to participate are heterogenous, leading to
     potential free-riding opportunities for individuals when a population is trying to reach a
     critical threshold.
+    <br>
     The decision to contribute to such public goods depends not only on private costs and
     benefits but also on the structure of decision-making. Individuals may act simultaneously
     without knowing others' choices or sequentially. When individuals make decisions
@@ -36,6 +38,35 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
     examines these factors through a controlled lab experimental framework to better
     understand the mechanisms that drive cooperative behavior in threshold public goods
     settings.
+  </p>
+</details>
+<br>
+<br>
+<details>
+  <summary><b> Effective Science Communication </b></summary>
+  <p>
+    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <br>
+    <br>
+    <i>Work in progress.</i>
+  </p>
+</details>
+<br>
+<br>
+<details>
+  <summary><b> Noise Pollution and Recreation Demand </b></summary>
+  <p>
+    With <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>
+    <br>
+    <br>
+    Anthropogenic noise is an increasing issue in outdoor recreation, particularly at national parks. 
+    Studies show that noise in national parks is a growing problem (Buxton et al. 2017; Chrobak 2017; Buxton et al. 2019), particularly in transportation corridors that have noise levels many times the natural level (Mennitt et al. 2014). Noise can have negative impacts on wildlife, including masking sounds that provide important signals of threats and mating. Shannon et al. (2016) documents how noise affects wildlife behavior, physiology, and fitness. Noise also impacts people. Basner et al. (2014) reports that noise not only annoys people but also contributes to health problems. In parks, even low levels of noise can diminish the benefits that people receive from experiencing nature and natural sounds (e.g., relaxation, mood, stress, etc.).  
+    <br>
+    To learn more about noise in national parks, the NPS also has monitored the frequency and levels of noise across hundreds of sites for nearly three decades. In 2000, the NPS Resource Stewardship and Science Directorate established The Natural Sounds Program, which seeks to 
+    “…protect, maintain, or restore acoustical environments throughout the National Park System.”  These efforts have contributed to our understanding of anthropogenic noise in national parks.  
+    <br>
+    The proposed study contributes to this knowledge by studying the individual behavioral responses to anthropogenic noise and estimating the welfare impacts on visitors. We will employ methods to estimate recreational demand models that allow the estimation of welfare effects from noise in GTNP. This includes investigating the averting behavior that visitors make to mitigate the welfare loss. Previous work has considered the impact of noise on wildlife (Barber et al. 2010; Shannon et al. 2015), and to a lesser extent the impact on visitors. A particular opening in the literature is examining how anthropogenic noise impacts the behavior and benefits of visitors to national parks. This research will help fill this void. 
+
   </p>
 </details>
 
