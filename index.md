@@ -67,7 +67,7 @@ You can contact me at [cslubsen@icloud.com](mailto:cslubsen@icloud.com) or by ph
   </p>
 </details>
 
-
+<br>
 * * *
 
 # Teaching
