@@ -6,7 +6,7 @@
 .cv-button {
   display: inline-block;
   padding: 0.5em 1em;
-  background-color: #0366d6;
+  background-color: #6c757d; /* Bootstrap-style gray */
   color: white;
   text-decoration: none;
   border-radius: 6px;
@@ -15,6 +15,6 @@
 }
 
 .cv-button:hover {
-  background-color: #024ea2;
+  background-color: #5a6268; /* Darker gray on hover */
 }
 
