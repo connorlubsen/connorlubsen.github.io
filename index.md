@@ -80,3 +80,17 @@ _Aug 2022 – Present_
 
 * * *
 
+# Affiliations
+
+<details>
+  <summary><b> The Teton Lab </b></summary>
+  <p>
+   <a href="https://www.teton-lab.org" target="_blank">The Teton Lab Website</a>
+    <br>
+    ​​Our research examines the interplay between individual behavior and institutions with a particular interest in environmental and natural resource policy. We blend experimental methods and environmental economics to understand how behavior is shaped by risk, inequality, choice architecture, emerging technologies, and strategic considerations.
+
+The Teton Lab's facilities include a 40-station behavioral and economic science laboratory on the campus of the University of Wyoming. In-person and virtual experiments are support by an online subject management system. Our research also benefits from the UW-NPS Research Station located on Jackson Lake in Grand Teton National Park.
+    <br>
+  </p>
+</details>
+
