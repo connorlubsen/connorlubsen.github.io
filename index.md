@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="/assets/tetons.jpeg" alt="AxamerLizum" />
 
-I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2027. My research focuses on [insert your research areas, e.g., environmental economics, recreational fisheries, etc.]. Specifically, I am interested in using [methodology, e.g., natural experiments, econometrics] to understand the effects of [specific research topics, e.g., climate change, noise pollution, etc.].
+I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2027. My research focuses on experimental methods to study topics in environmental economics, collective action, and individual decision making under risk.
 
 I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
@@ -77,13 +77,6 @@ Graduate Student Researcher
 _Aug 2022 – Present_  
 - Oversaw Experiments in the Teton Experimental Laboratory for economics research.  
 - Research Assistant on the WYAct EPSCoR grant, helping Wyoming anticipate climate change impacts on water resources in the state.
-
-**Allstate Insurance Corporation**  
-Product and Data Analyst  
-_Jan 2022 – Aug 2022_  
-- Created analytical breakdowns of current trends in the insurance market of Texas to aid in decision making for navigating the economic environment.  
-- Built custom tracking tool to oversee the performance of certain lines and products in their new implementations throughout Texas.  
-- Used a background in economics to identify corollary trends within products/lines and macroeconomic environment indicators.
 
 
 * * *
