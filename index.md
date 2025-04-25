@@ -24,14 +24,19 @@ Magna Cum Laude
 
 * * *
 
-# Honors Societies
+# Research - Working Papers
 
-- President of Kappa Chapter of Omicron Delta Epsilon, International Economics Honors Society at ASU (May 2021-December 2021)
-- Member of Gamma Iota Sigma (Risk Management and Insurance Honors Society)
+<details>
+  <summary><strong>Paper Title: "The Economics of Cool Stuff"</strong></summary>
+  <p>
+    This paper explores the intersection of behavioral nudges and coolness perception in product adoption. We use panel data from sneaker releases and a novel measure of "hype" elasticity...
+  </p>
+</details>
+
 
 * * *
 
-# Work Experience
+# Teaching
 
 **University of Wyoming**  
 Graduate Student Researcher  
