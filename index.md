@@ -84,7 +84,8 @@ Graduate Student Researcher
 _Aug 2022 – Present_  
 - Oversaw Experiments in the Teton Experimental Laboratory for economics research.  
 - Research Assistant on the WYAct EPSCoR grant, helping Wyoming anticipate climate change impacts on water resources in the state.
-_Aug 2025 - Present_
+
+_Aug 2025 - Dec 2025_
 - Teaching Comutational Economics, Python Section
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 
