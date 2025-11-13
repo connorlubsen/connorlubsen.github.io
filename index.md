@@ -97,7 +97,7 @@ _Aug 2022 – Present_
 
 Course Instructor <br>
 _Aug 2025 - Dec 2025_
-- Teaching Comutational Economics, Python Section
+- Teaching Computational Economics, Python Section
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 
 * * *
