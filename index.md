@@ -3,9 +3,9 @@ layout: default
 ---
 <img src="/assets/tetons.jpeg" alt="AxamerLizum" />
 
-I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2028. My research focuses on using experimental methods to study topics in environmental economics, collective action problems, and individual decision making under risk.
+I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2028. My research focuses on using experimental methods to study topics in environmental economics, collective action problems, and individual decision making under risk and uncertainty.
 
-I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
+I recieved my Masters of Science (M.S.) in Economics from the [University of Wyoming](https://www.uwyo.edu) in December of 2025. I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
 You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 
@@ -96,8 +96,16 @@ _Aug 2022 – Present_
 - Research Assistant on the WYAct EPSCoR grant, helping Wyoming anticipate climate change impacts on water resources in the state.
 
 Course Instructor <br>
+_Jan 2026 - May 2026_
+- Teaching Risk Management
+- Focuses on current risk managment techniques applied to commercial and personal settings.
+- Explain the meaning of Qinancial risk management and enterprise risk management.
+- Covers the major methods of handling risk  (avoidance, loss prevention, loss reduction, retention, noninsurance transfer, and insurance).
+  
+
+Course Instructor <br>
 _Aug 2025 - Dec 2025_
-- Teaching Computational Economics, Python Section
+- Taught Computational Economics, Python Section
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 
 * * *
