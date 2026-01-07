@@ -98,8 +98,8 @@ _Aug 2022 – Present_
 Course Instructor <br>
 _Jan 2026 - May 2026_
 - Teaching Risk Management
-- Focuses on current risk managment techniques applied to commercial and personal settings.
-- Explain the meaning of Qinancial risk management and enterprise risk management.
+- Focuses on current risk management techniques applied to commercial and personal settings.
+- Explain the meaning of financial risk management and enterprise risk management.
 - Covers the major methods of handling risk  (avoidance, loss prevention, loss reduction, retention, noninsurance transfer, and insurance).
   
 
