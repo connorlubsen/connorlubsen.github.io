@@ -110,7 +110,6 @@ _Aug 2025 - Dec 2025_
 
 * * *
 # Presentations
-
 <details>
   <summary><b> Univerity of Wyoming Student Symposium (Novemeber 2025)</b></summary>
   <p>
@@ -141,7 +140,6 @@ _Aug 2025 - Dec 2025_
 
 
 # Affiliations
-
 <details>
   <summary><b> The Teton Lab </b></summary>
   <p>
