@@ -109,6 +109,35 @@ _Aug 2025 - Dec 2025_
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 
 * * *
+# Presentations
+
+<details>
+  <summary><b> Univerity of Wyoming Student Symposium (Novemeber 2025)</b></summary>
+  <p>
+   <a href="https://www.uwyo.edu/economics/seminars/index.html" target="_blank">Economics Graduate Student Research Symposium</a>
+    <br>
+    Presented work on Voluntary Public Good Provision with Heterogeneous Private Benefits to the University of Wyoming Economics department and attending visitors.
+    <br>
+  </p>
+</details>
+<details>
+  <summary><b> Southern Economic Association (November 2025)</b></summary>
+  <p>
+   <a href="https://southerneconomic.org/" target="_blank">SEA Website</a>
+    <br>
+    Presented work on Voluntary Public Good Provision with Heterogeneous Private Benefits to the SEA's 95th annual conference in Tampa, Florida.
+    <br>
+  </p>
+</details>
+<details>
+  <summary><b> Society for Risk Analysis (December 2025)</b></summary>
+  <p>
+   <a href="https://www.sra.org/" target="_blank">CICERO Website</a>
+    <br>
+    Presented work on Voluntary Public Good Provision with Heterogeneous Private Benefits to the SRA's annual conference in Washington, D.C.
+    <br>
+  </p>
+</details>
 
 # Affiliations
 
