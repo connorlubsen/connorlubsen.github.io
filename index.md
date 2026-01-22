@@ -137,7 +137,7 @@ _Aug 2025 - Dec 2025_
     <br>
   </p>
 </details>
-
+<br>
 
 # Affiliations
 <details>
