@@ -111,7 +111,7 @@ _Aug 2025 - Dec 2025_
 * * *
 # Presentations
 <details>
-  <summary><b> Univerity of Wyoming Student Symposium (Novemeber 2025)</b></summary>
+  <summary><b> University of Wyoming Student Symposium (November 2025)</b></summary>
   <p>
    <a href="https://www.uwyo.edu/economics/seminars/index.html" target="_blank">Economics Graduate Student Research Symposium</a>
     <br>
@@ -131,7 +131,7 @@ _Aug 2025 - Dec 2025_
 <details>
   <summary><b> Society for Risk Analysis (December 2025)</b></summary>
   <p>
-   <a href="https://www.sra.org/" target="_blank">CICERO Website</a>
+   <a href="https://www.sra.org/" target="_blank">SRA Website</a>
     <br>
     Presented work on Voluntary Public Good Provision with Heterogeneous Private Benefits to the SRA's annual conference in Washington, D.C.
     <br>
