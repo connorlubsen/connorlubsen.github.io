@@ -42,7 +42,7 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 </details>
 <br>
 <details>
-  <summary><b> ﻿﻿Nudge Sequencing - The role of peer comparison and sequencing in building support for Pigouvian taxes </b></summary>
+  <summary><b> Correcting Market Failures with Individual and System Level Interventions: A Solution to Strategic Uncertainty </b></summary>
   <p>
     <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, <a href="https://cicero.oslo.no/en/employees/steffen-kallbekken" target="_blank">Steffen Kallbekken </a>, and <a href="https://cicero.oslo.no/en/employees/sofie-skjeflo" target="_blank">Sofie Skjeflo </a>
     <br>
