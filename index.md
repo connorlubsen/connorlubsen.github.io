@@ -101,12 +101,14 @@ _Jan 2026 - May 2026_
 - Focuses on current risk management techniques applied to commercial and personal settings.
 - Explain the meaning of financial risk management and enterprise risk management.
 - Covers the major methods of handling risk  (avoidance, loss prevention, loss reduction, retention, noninsurance transfer, and insurance).
+- Implemented “Flipped” classroom sessions following the Bok Center for Teaching and Learning, The Harvard Kennedy School, and Vanderbilt’s AdvancED guidelines.
   
 
 Course Instructor <br>
 _Aug 2025 - Dec 2025_
 - Taught Computational Economics, Python Section
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
+- Integrated econometric analysis to expose students to the most recent developments in economics research (e.g. machine learning, synthetic control, and Principal Component Weighting/ Analysis)
 
   
 * * *
