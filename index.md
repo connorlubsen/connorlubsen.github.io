@@ -108,6 +108,19 @@ _Aug 2025 - Dec 2025_
 - Taught Computational Economics, Python Section
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 
+  
+* * *
+# Awards
+<details>
+  <summary><b> Graduate Scholar of the Year 2025 - 2026</b></summary>
+  <p>
+   <a href="https://www.uwyo.edu/economics/seminars/index.html" target="_blank">UWYO Awards List</a>
+    <br>
+    This award is given each year to the top Economics graduate students who have excelled in teaching or research, and is decided by Economics faculty.
+    <br>
+  </p>
+</details>
+
 * * *
 # Presentations
 <details>
@@ -139,6 +152,7 @@ _Aug 2025 - Dec 2025_
 </details>
 <br>
 
+* * *
 # Affiliations
 <details>
   <summary><b> The Teton Lab </b></summary>
