@@ -112,18 +112,21 @@ _Aug 2025 - Dec 2025_
 
   
 * * *
+
 # Awards
 <details>
   <summary><b> Graduate Scholar of the Year 2025 - 2026</b></summary>
   <p>
-   <a href="https://www.uwyo.edu/economics/seminars/index.html" target="_blank">UWYO Awards List</a>
+   <a href="https://www.uwyo.edu/news/2026/index.html" target="_blank">UWYO Awards List</a>
     <br>
     This award is given each year to the top Economics graduate students who have excelled in teaching or research, and is decided by Economics faculty.
     <br>
   </p>
 </details>
 
+
 * * *
+
 # Presentations
 <details>
   <summary><b> University of Wyoming Student Symposium (November 2025)</b></summary>
