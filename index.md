@@ -54,7 +54,7 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 <details>
   <summary><b> Anthropogenic Noise: Visitor Behavior and Welfare Implications  </b></summary>
   <p>
-    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, <a>Caleb J. Hill</a>, and <a>Katie Tenny</a>.
+    <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, and <a href="https://economics.appstate.edu/directory/john-whitehead-phd" target="_blank">John Whitehead </a>.
     <br>
     <br>
     Anthropogenic noise is an increasing issue in outdoor recreation, particularly at national parks. 
