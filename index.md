@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="/assets/tetons.jpeg" alt="AxamerLizum" />
 
-I am a Ph.D. student in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2028. My research focuses on using experimental methods to study topics in collective action problems, individual decision making under risk and uncertainty, and environmental economics.
+I am a Ph.D. candidate in Economics at the [University of Wyoming](https://www.uwyo.edu), where I am expected to graduate in May 2028. My research focuses on using experimental methods to study topics in collective action problems, individual decision making under risk and uncertainty, and environmental economics.
 
 I recieved my Masters of Science (M.S.) in Economics from the [University of Wyoming](https://www.uwyo.edu) in December of 2025. I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
