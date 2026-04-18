@@ -106,7 +106,7 @@ _Jan 2026 - May 2026_
 
 Course Instructor <br>
 _Aug 2025 - Dec 2025_
-- Taught Computational Economics, Python Section
+- Taught Computational Economics
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 - Integrated econometric analysis to expose students to the most recent developments in economics research (e.g. machine learning, synthetic control, and Principal Component Weighting/ Analysis)
 
