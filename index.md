@@ -162,7 +162,7 @@ _Aug 2025 - Dec 2025_
 <details>
   <summary><b> The Teton Lab </b></summary>
   <p>
-   <a href="https://www.teton-lab.org" target="_blank">The Teton Lab Website</a>
+   <a href="https://www.thetetonlab.org" target="_blank">The Teton Lab Website</a>
     <br>
     ​​Our research examines the interplay between individual behavior and institutions with a particular interest in environmental and natural resource policy. We blend experimental methods and environmental economics to understand how behavior is shaped by risk, inequality, choice architecture, emerging technologies, and strategic considerations.
 
