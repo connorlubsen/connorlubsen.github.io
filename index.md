@@ -160,7 +160,7 @@ _Aug 2025 - Dec 2025_
 * * *
 # Affiliations
 <details>
-  <summary><b> The Teton Lab </b></summary>
+  <summary><b> The Teton Behavioral and Economic Science Lab </b></summary>
   <p>
    <a href="https://www.thetetonlab.org" target="_blank">The Teton Lab Website</a>
     <br>
