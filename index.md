@@ -92,8 +92,11 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 **University of Wyoming**  
 Graduate Student Researcher  
 _Aug 2022 – Present_  
-- Oversaw Experiments in the Teton Experimental Laboratory for economics research.  
-- Research Assistant on the WYAct EPSCoR grant, helping Wyoming anticipate climate change impacts on water resources in the state.
+- Development and distribution of laboratory experiments in the Teton Lab at the University of Wyoming using Python, HTML and OTREE interfaces to study how individual respond to strategic uncertainty in simulated markets.
+- Development and distribution of survey experiments using Qualtrics, Prolific and intercept surveys to study individual responses to communication of uncertainty
+- Devise game theoretic models to represent rational decision making.
+- Use STATA, Python, Julia, R to analyze primary collected data and secondary collected data against constructed models using econometric and experimental methods.
+- Integrated novel artificial intelligence analysis to open free-form text response to construct narrative analyses to enrich data analysis and understanding of human behavior in economics experiments.
 
 Course Instructor <br>
 _Jan 2026 - May 2026_
@@ -110,6 +113,33 @@ _Aug 2025 - Dec 2025_
 - Focuses on how to use the python code language as a medium of analysis for Economic questions and research.
 - Integrated econometric analysis to expose students to the most recent developments in economics research (e.g. machine learning, synthetic control, and Principal Component Weighting/ Analysis)
 
+Graduate Student Researcher - NSF WyACT Grant <br>
+_Aug 2022 - July 2024_
+- WyACT is pushing the boundaries of how science is use-inspired and co-produced through the
+lens of climate impacts on the water cycle. Western Wyoming mountains are headwater regions for
+major river basins. Changes will impact the human-wildlife systems in the region as well as
+densely populated downstream regions.
+- Research Assistant on the WYAct EPSCoR NSF grant, helping Wyoming anticipate anthropogenic
+climate change impacts on water resources in the state.
+- Oversaw Experiments in the Teton Experimental Laboratory for economics research.
+
+Field Researcher <br>
+_Jun 2024 - Aug 2024_
+• Traveled to Grand Teton National Park to conduct field research and survey of park visitors
+• Worked with NPS staff and researchers to design, implement, and analyze experimental data for
+NPS management and policy deliverables.
+• Led research design for valuation of conservation for natural soundscapes in the national park.
+
+* * *
+
+# Private Industry Experience
+
+Product and Data Analyst for Allstate Insurance Co.<br>
+_Jan 2022 - Aug 2022_
+- Collected data to monitor ongoing natural hazards (wildfire, hurricane, etc.) and used climate historical data and forecasting models to analyze underwriting exposure for the state management team of Texas.
+- Created analytical breakdowns of current trends in the insurance market of Texas to aid in decision making for navigating economic environment.
+- Built custom tracking tool to oversee performance of certain lines and products in their new implementations throughout the state of Texas.
+- Used a background in economics to identify trends within products/lines and macroeconomic environment indicators.
   
 * * *
 
@@ -176,6 +206,15 @@ The Teton Lab's facilities include a 40-station behavioral and economic science 
    <a href="https://cicero.oslo.no/en" target="_blank">CICERO Website</a>
     <br>
     CICERO Center for International Climate Research is Norway’s foremost institute for interdisciplinary climate research.
+    <br>
+  </p>
+</details>
+<details>
+  <summary><b> Wyoming Anticipating Climate Transitsion (WyACT) NSF EPSCoR Grant </b></summary>
+  <p>
+   <a href="https://www.uwyo.edu/research/centers-and-institutes/wyact/project_team.html" target="_blank">CICERO Website</a>
+    <br>
+   WyACT is pushing the boundaries of how science is use-inspired and co-produced through the lens of climate impacts on the water cycle. Western Wyoming mountains are headwater regions for major river basins. Changes will impact the region as well as densely populated downstream regions.
     <br>
   </p>
 </details>
