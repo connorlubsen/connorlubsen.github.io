@@ -133,10 +133,10 @@ climate change impacts on water resources in the state.
 
 Field Researcher <br>
 _Jun 2024 - Aug 2024_
-• Traveled to Grand Teton National Park to conduct field research and survey of park visitors
-• Worked with NPS staff and researchers to design, implement, and analyze experimental data for
+- Traveled to Grand Teton National Park to conduct field research and survey of park visitors
+- Worked with NPS staff and researchers to design, implement, and analyze experimental data for
 NPS management and policy deliverables.
-• Led research design for valuation of conservation for natural soundscapes in the national park.
+- Led research design for valuation of conservation for natural soundscapes in the national park.
 
 * * *
 
