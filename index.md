@@ -90,9 +90,9 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 * * *
 
 # Roles & Teaching
-**Appalachian State University**
-Lecturer
-_Aug 2026 – Present_  
+**Appalachian State University** <br>
+Lecturer <br>
+_Aug 2026 – Present_
 - Teaching one section of principles of risk management and insurance (FIN 3100).
 - Teaching two sections of financial analysis using computer applications (FIN 3990).
 - Leading trips for prospective students to employers as designated faculty trip member
