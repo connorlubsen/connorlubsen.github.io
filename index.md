@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Economics at the [University of Wyoming](https://www.u
 
 I recieved my Masters of Science (M.S.) in Economics from the [University of Wyoming](https://www.uwyo.edu) in December of 2025. I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
 
-I am on the 2026-2027 job market!
+**I am on the 2026-2027 job market!**
 
 You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 
