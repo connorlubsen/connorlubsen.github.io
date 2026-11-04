@@ -3,9 +3,11 @@ layout: default
 ---
 <img src="/assets/tetons.jpeg" alt="AxamerLizum" />
 
-I am a Ph.D. candidate in Economics at the [University of Wyoming](https://www.uwyo.edu). My research focuses on using experimental methods to study topics in collective action problems, individual decision making under risk and uncertainty, and environmental economics.
+I am a Ph.D. candidate in Economics at the [University of Wyoming](https://www.uwyo.edu), graduating in December of 2026. My research focuses on using experimental methods to study topics in collective action problems, individual decision making under risk and uncertainty, and environmental economics.
 
 I recieved my Masters of Science (M.S.) in Economics from the [University of Wyoming](https://www.uwyo.edu) in December of 2025. I received my two Bachelor's degrees in Economics (B.S.B.A) and Risk Management & Insurance (B.S.B.A.) from [Appalachian State University](https://www.appstate.edu), where I graduated Magna Cum Laude in December 2021. 
+
+I am on the 2026-2027 job market!
 
 You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 
@@ -88,10 +90,16 @@ You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
 * * *
 
 # Roles & Teaching
-
+**Appalachian State University**
+Lecturer
+_Aug 2026 – Present_  
+- Teaching one section of principles of risk management and insurance (FIN 3100).
+- Teaching two sections of financial analysis using computer applications (FIN 3990).
+- Leading trips for prospective students to employers as designated faculty trip member
+  
 **University of Wyoming**  
 Graduate Student Researcher  
-_Aug 2022 – Present_  
+_Aug 2022 – July 2026_  
 - Development and distribution of laboratory experiments in the Teton Lab at the University of Wyoming using Python, HTML and OTREE interfaces to study how individual respond to strategic uncertainty in simulated markets.
 - Development and distribution of survey experiments using Qualtrics, Prolific and intercept surveys to study individual responses to communication of uncertainty
 - Devise game theoretic models to represent rational decision making.
@@ -100,7 +108,7 @@ _Aug 2022 – Present_
 
 Course Instructor <br>
 _Jan 2026 - May 2026_
-- Teaching Risk Management
+- Taught Economics of Risk Management
 - Focuses on current risk management techniques applied to commercial and personal settings.
 - Explain the meaning of financial risk management and enterprise risk management.
 - Covers the major methods of handling risk  (avoidance, loss prevention, loss reduction, retention, noninsurance transfer, and insurance).
