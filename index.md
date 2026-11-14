@@ -16,7 +16,7 @@ You can contact me at [lubsencs@appstate.edu](mailto:lubsencs@appstate.edu).
 # Research - Working Papers
 
 <details>
-  <summary><b>Voluntary Public Good Provision with Heterogeneous Private Benefits </b></summary>
+  <summary><b>Voluntary Public Good Provision with Heterogeneous Private Costs </b></summary>
   <p>
     <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a> and <a href="https://www.uwyo.edu/economics/faculty-staff/david-finnoff/index.html" target="_blank">David Finnoff</a>
     <br>
@@ -44,7 +44,7 @@ You can contact me at [lubsencs@appstate.edu](mailto:lubsencs@appstate.edu).
 </details>
 <br>
 <details>
-  <summary><b> Correcting Market Failures with Individual and System Level Interventions: A Solution to Strategic Uncertainty </b></summary>
+  <summary><b> Correcting Market Failures with Individual and System Level Interventions </b></summary>
   <p>
     <i>Work in progress</i> with <a href="https://tlcherry.weebly.com" target="_blank">Todd L. Cherry</a>, <a href="https://cicero.oslo.no/en/employees/steffen-kallbekken" target="_blank">Steffen Kallbekken </a>, and <a href="https://cicero.oslo.no/en/employees/sofie-skjeflo" target="_blank">Sofie Skjeflo </a>
     <br>
