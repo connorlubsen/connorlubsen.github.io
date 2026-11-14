@@ -9,7 +9,7 @@ I recieved my Masters of Science (M.S.) in Economics from the [University of Wyo
 
 **I am on the 2026-2027 job market!**
 
-You can contact me at [clubsen@uwyo.edu](mailto:clubsen@uwyo.edu).
+You can contact me at [lubsencs@appstate.edu](mailto:lubsencs@appstate.edu).
 
 * * *
 
