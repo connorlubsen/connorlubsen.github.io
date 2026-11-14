@@ -155,7 +155,7 @@ _Jan 2022 - Aug 2022_
 <details>
   <summary><b> Graduate Scholar of the Year 2025 - 2026</b></summary>
   <p>
-   <a href="https://www.uwyo.edu/news/2026/index.html" target="_blank">UWYO Awards List</a>
+   <a href="[https://www.uwyo.edu/news/2026/index.html](https://www.uwyo.edu/news/2026/05/faculty-staff-students-receive-uw-college-of-business-awards-at-75th-annual-recognition-day.html)" target="_blank">UWYO Awards List</a>
     <br>
     This award is given each year to the top Economics graduate students who have excelled in teaching or research, and is decided by Economics faculty.
     <br>
