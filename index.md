@@ -220,7 +220,7 @@ The Teton Lab's facilities include a 40-station behavioral and economic science 
 <details>
   <summary><b> Wyoming Anticipating Climate Transitsion (WyACT) NSF EPSCoR Grant </b></summary>
   <p>
-   <a href="https://www.uwyo.edu/research/centers-and-institutes/wyact/project_team.html" target="_blank">CICERO Website</a>
+   <a href="https://www.uwyo.edu/research/centers-and-institutes/wyact/project_team.html" target="_blank">WYACT Website</a>
     <br>
    WyACT is pushing the boundaries of how science is use-inspired and co-produced through the lens of climate impacts on the water cycle. Western Wyoming mountains are headwater regions for major river basins. Changes will impact the region as well as densely populated downstream regions.
     <br>
